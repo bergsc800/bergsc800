@@ -1,4 +1,6 @@
-### Hi there 👋
+### How To Work With Multiple Github Accounts on a single Machine
+
+[Multiple Github Accounts](https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3)
 
 <!--
 **bergsc800/bergsc800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
